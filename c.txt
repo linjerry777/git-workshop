@@ -1,5 +1,8 @@
 
+
 index
 
 login
+
+register
 
